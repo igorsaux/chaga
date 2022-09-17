@@ -1,0 +1,15 @@
+@import url("normalize.css");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.9em;
+  color: hsl(213, 13%, 15%);
+  background-color: hsl(0, 0%, 100%);
+  padding: 0.4rem;
+}
